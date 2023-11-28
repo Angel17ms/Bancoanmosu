@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Banco-anmosu</string>
+    <string name="password">Introduce la contraseña</string>
+    <string name="titulo">Iniciar Sesion</string>
+    <string name="tit_usuario">Introduce el usuario</string>
+    <string name="Enviar">Enviar</string>
+    <string name="obligatorio">Obligatorio</string>
+    <string name="Salir">Salir</string>
+    <string name="Bienvenido">Bienvenido/a</string>
+    <string name="bank">Bank</string>
+    <string name="posicion_global">POSICION GLOBAL</string>
+    <string name="movimientos">MOVIMIENTOS</string>
+    <string name="transferencias">TRANSFERENCIAS</string>
+    <string name="cambiar_contrase_a">CAMBIAR CONTRASEÑA</string>
+    <string name="promociones">PROMOCIONES</string>
+    <string name="cajeros">CAJEROS</string>
+    <string name="salir">SALIR</string>
+    <string name="bienvenido_a_a_mi_banco">Bienvenido/a a mi banco</string>
+    <string name="entrar">Entrar</string>
+    <string name="introduce_tu_contrase_a_anterior">Introduce tu contraseña anterior</string>
+    <string name="introduce_tu_nueva_contrase_a">Introduce tu nueva contraseña</string>
+    <string name="repite_tu_nueva_contrase_a">Repite tu nueva contraseña</string>
+    <string name="cuenta_propia">Cuenta Propia</string>
+    <string name="elegir_cuenta">Elegir cuenta</string>
+    <string name="cuenta_ajena">Cuenta Ajena</string>
+    <string name="cantidad">Cantidad:</string>
+    <string name="enviar_justificante">Enviar justificante</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="cuentas">Cuentas:</string>
+    <string name="seleccionar">"Seleccionar la cuenta: "</string>
+    <string name="ultimos_movimientos">Ultimos movimientos:</string>
+</resources>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Banco-anmosu</string>
+    <string name="password">Enter the password</string>
+    <string name="titulo">Log In</string>
+    <string name="tit_usuario">Enter the username</string>
+    <string name="Enviar">Send</string>
+    <string name="obligatorio">Required</string>
+    <string name="Salir">Exit</string>
+    <string name="Bienvenido">Welcome</string>
+    <string name="bank">Bank</string>
+    <string name="posicion_global">GLOBAL POSITION</string>
+    <string name="movimientos">TRANSACTIONS</string>
+    <string name="transferencias">TRANSFERS</string>
+    <string name="cambiar_contrase_a">CHANGE PASSWORD</string>
+    <string name="promociones">PROMOTIONS</string>
+    <string name="cajeros">ATMs</string>
+    <string name="salir">EXIT</string>
+    <string name="bienvenido_a_a_mi_banco">Welcome to my bank</string>
+    <string name="entrar">Log In</string>
+    <string name="introduce_tu_contrase_a_anterior">Enter your previous password</string>
+    <string name="introduce_tu_nueva_contrase_a">Enter your new password</string>
+    <string name="repite_tu_nueva_contrase_a">Repeat your new password</string>
+    <string name="cuenta_propia">Own account</string>
+    <string name="elegir_cuenta">Choose account</string>
+    <string name="cuenta_ajena">Other Account</string>
+    <string name="cantidad">Amount:</string>
+    <string name="enviar_justificante">Send receipt</string>
+    <string name="cancelar">Cancel</string>
+    <string name="cuentas">Accounts:</string>
+    <string name="seleccionar">Select account: </string>
+    <string name="ultimos_movimientos">Recent transactions:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
